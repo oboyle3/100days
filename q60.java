@@ -6,6 +6,9 @@ public class q60 {
 	    String line = in.nextLine();
         String [] words = line.split(" ");
         System.out.println("Penultimate word: "+words[words.length - 1]);
+        System.out.println("Penulti"};
+        
+
 
 
 
