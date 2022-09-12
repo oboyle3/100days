@@ -3,7 +3,7 @@ public class q52 {
 
         int num1 = 8;
 
-        int num2 = 10;
+        int num2 = 11;
         
         int num3 = 10;
 
