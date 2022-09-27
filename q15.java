@@ -4,7 +4,7 @@ public class q15 {
     public static void main(String[] args){
         int num1 = 2;
         int num2 = 3;
-        System.out.println("before swap "+ num1+","+num2);
+        System.out.println("before  "+ num1+","+num2);
         int temp = 1;
         //
         temp = num1;
