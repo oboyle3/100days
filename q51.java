@@ -5,7 +5,7 @@ public class q51 {
         System.out.println("enter a number to be converted to a string");
         String word = scanner.nextLine();
         int num = Integer.parseInt(word);
-        System.out.println("converted to a string "+ num);
+        System.out.println("the converted to a string "+ num);
 
 
     }
