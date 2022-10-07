@@ -2,7 +2,7 @@ import java.util.*;
 public class q54 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
-        System.out.println("Input the first number: ");
+        System.out.println("Input the first  number: ");
         int num1 = in.nextInt();
         System.out.println("Input the second number: ");
         int num2 = in.nextInt();
