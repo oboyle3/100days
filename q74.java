@@ -6,7 +6,7 @@ public class q74 {
         int test = 10;
 
         if(test == arr[0]){
-            System.out.println("10 is the first elemnty");
+            System.out.println("10 is the first elemnt ");
         }
         if(test == arr[arr.length-1]){
             System.out.println("10 is the last elemnty");
